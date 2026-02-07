@@ -27,9 +27,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
-# nav:
-#   - Home: index.md
-#   - Notes:
-#     - Offensive Security: notes/
-#     - Engineering: engineering/
-#   - Certifications: certs.md
+nav:
+  - Home: index.md
+  - Offensive Security: offensive-security/
+  - Engineering: engineering/
+  - Certification Notes: certifications.md
