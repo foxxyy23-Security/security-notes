@@ -4,6 +4,10 @@ Welcome to my personal knowledge base.
 
 ## Categories
 
-*   **[Offensive Security](notes/)**
-*   **[Engineering](engineering/)**
-*   **[Certifications](certs.md)**
+
+
+*   **[Offensive Security](offensive-security/index.md)**
+
+*   **[Engineering](engineering/index.md)**
+
+*   **[Certifications](certifications/index.md)**

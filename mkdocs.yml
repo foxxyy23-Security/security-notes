@@ -29,6 +29,6 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Offensive Security: offensive-security/
-  - Engineering: engineering/
-  - Certification Notes: certifications/
+  - Offensive Security: offensive-security/index.md
+  - Engineering: engineering/index.md
+  - Certification Notes: certifications/index.md
