@@ -10,7 +10,6 @@ theme:
     primary: teal
     accent: cyan
   features:
-    - navigation.expand
     - navigation.sections
     - navigation.top
     - search.suggest
