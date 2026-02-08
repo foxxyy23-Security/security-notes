@@ -1,1 +1,3 @@
-# Offensive Security\n\nNotes on offensive security methodologies.
+# Offensive Security
+
+Notes on offensive security methodologies.

@@ -27,8 +27,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
-nav:
-  - Home: index.md
-  - Offensive Security: offensive-security/index.md
-  - Engineering: engineering/index.md
-  - Certification Notes: certifications/index.md
+# nav:
+#   - Home: index.md
+#   - Offensive Security: offensive-security/index.md
+#   - Engineering: engineering/index.md
+#   - Certification Notes: certifications/index.md

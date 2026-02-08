@@ -1,1 +1,3 @@
-# Certification Notes\n\nStudy notes and guides for certifications.
+# Certification Notes
+
+Study notes and guides for certifications.
